@@ -27,4 +27,9 @@ Now we are using api gateway port 8989
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/191846431-5132ab86-182e-463e-bbd3-5788e9380b9f.png)
 <br>
+We used H2-in memory database
+<br>
+![image](https://user-images.githubusercontent.com/36573782/191846967-94c2a65c-22f1-4534-9a6b-fd0da2527bc1.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/191846991-0f97dd33-c882-42c2-8d34-a664df5807e8.png)
 
