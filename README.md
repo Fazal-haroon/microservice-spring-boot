@@ -49,4 +49,17 @@ Hystrix-Dashboard
 <br>
 I created the cloud-config-server file same repo, not need to create separte repo.
 <br>
-
+Then we added bootstrp.xml, and import spring-cloud-starter-config in Order-Service, Payment-Service, and Cloud-Gateway.
+<br>
+![image](https://user-images.githubusercontent.com/36573782/192106662-eee3c075-359e-4420-a933-07975d9ebbe7.png)
+<br>
+6 Centralized Logging with the ELK stack Elasticsearch, Logstash, and Kibana. (Microservice Centralize Logging)
+<br>
+ElasticSearch: ElasticSearch is a NoSQL database that is based on the Lucene search engine which will helps us to store inputs/logs. (it will help us to store data)
+<br>
+LogStash: LogStash is a log pipeline tool that accepts inputs/logs from various sources, & exports the data to various targets. (it will help us to process the data)
+<br>
+Kibana: Kibana is a visualization UI Layer, which will helps developer to monitor application logs. (it will help us to view those data)
+<br>
+log -> data processing (LogStash) -> storage (ElasticSearch) -> visualize (Kibana)
+<br>
