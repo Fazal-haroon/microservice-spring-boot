@@ -32,4 +32,17 @@ We used H2-in memory database
 ![image](https://user-images.githubusercontent.com/36573782/191846967-94c2a65c-22f1-4534-9a6b-fd0da2527bc1.png)
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/191846991-0f97dd33-c882-42c2-8d34-a664df5807e8.png)
+<br>
+4 Now we added netflix-hystrix in our project to check fail services
+<br>
+![image](https://user-images.githubusercontent.com/36573782/192097012-dea528d0-d3de-40fa-8fac-5dd215b1d4ec.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/192097036-61f75258-9821-4c1d-bf8e-69a61d82fae7.png)
+<br>
+Hystrix-Dashboard
+<br>
+![image](https://user-images.githubusercontent.com/36573782/192097626-b27c69cc-469a-4ef4-ad8b-8ba9867defac.png)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/192099520-bc547348-1a3c-461b-812c-74703d6c6e3a.png)
+<br>
 
