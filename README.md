@@ -45,4 +45,8 @@ Hystrix-Dashboard
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/192099520-bc547348-1a3c-461b-812c-74703d6c6e3a.png)
 <br>
+5 Spring Cloud Config Server with Git
+<br>
+I created the cloud-config-server file same repo, not need to create separte repo.
+<br>
 
