@@ -63,3 +63,12 @@ Kibana: Kibana is a visualization UI Layer, which will helps developer to monito
 <br>
 log -> data processing (LogStash) -> storage (ElasticSearch) -> visualize (Kibana)
 <br>
+Download elasticsearch, logstash, and kibana from official websites. [https://www.elastic.co/downloads/] 
+<br>
+If you are facing problem in elasticsearch then Download ElasticSearch from this website: [https://logz.io/blog/elk-stack-windows/]
+<br>
+![image](https://user-images.githubusercontent.com/36573782/192130054-5d9aa642-a6c4-4184-bbab-dd68e70b57e3.png)
+<br>
+Starting and stoping from services
+<br>
+![image](https://user-images.githubusercontent.com/36573782/192130123-a23eabd4-9f4f-4464-a2b4-8b29d9103211.png)
