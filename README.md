@@ -53,6 +53,8 @@ Then we added bootstrp.xml, and import spring-cloud-starter-config in Order-Serv
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/192106662-eee3c075-359e-4420-a933-07975d9ebbe7.png)
 <br>
+Not add the ELK Stack for log storing, Soon i will add elk stack with this microservice project
+<br>
 6 Centralized Logging with the ELK stack Elasticsearch, Logstash, and Kibana. (Microservice Centralize Logging)
 <br>
 ElasticSearch: ElasticSearch is a NoSQL database that is based on the Lucene search engine which will helps us to store inputs/logs. (it will help us to store data)
