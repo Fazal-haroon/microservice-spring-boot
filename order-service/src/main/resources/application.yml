@@ -1,0 +1,15 @@
+server:
+  port: 9192
+
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource:
+    username: sa
+    password:
+    url: jdbc:h2:mem:databaseapp
+  application:
+    name: ORDER-SERVICE
+logging:
+  file: C:\projects\microservice\microservice.log

@@ -1,0 +1,15 @@
+server:
+  port: 9191
+
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource:
+    username: sa
+    password:
+    url: jdbc:h2:mem:databaseapp
+  application:
+    name: PAYMENT-SERVICE
+logging:
+  file: C:\projects\microservice\microservice.log
